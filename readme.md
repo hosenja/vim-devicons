@@ -1,7 +1,7 @@
 # VimDevIcons - Add Icons to Your Plugins
 
 <h1 align="center">
-  <img src="https://github.com/ryanoasis/vim-devicons/wiki/screenshots/v0.9.x/branding-logo.png" alt="vim-devicons">
+  <img src="https://user-images.githubusercontent.com/17565534/27344967-d59685ca-55f0-11e7-8494-e117737269ac.png">
 </h1>
 
 [![GitHub version][img-version-badge]][badge-version]
